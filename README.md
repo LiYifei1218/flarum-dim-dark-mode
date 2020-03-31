@@ -4,4 +4,4 @@ Flarum DIM - DARK Mode CSS
 
 <div class="highlight highlight-source-shell"><pre>composer require fof/nightmode</pre></div>
 
-https://prntscr.com/rq9jh1
+<img src="https://prntscr.com/rq9jh1" alt="image" style="max-width:100%;">
