@@ -117,6 +117,10 @@ body.dark .Modal-body {
     background-color: #15202B !important;
 }
 
+body.dark .Modal-footer {
+    background-color: #21303D !important;
+}
+
 body.dark .containerNarrow {
     color: rgb(136, 153, 166) !important;
 }
