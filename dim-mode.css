@@ -173,10 +173,6 @@ body.dark .Header-secondary .Button {
     color: #fff !important;
 }
 
-body.dark .Button:hover, body.dark .Button:focus, body.dark .Button.focus {
-    background-color: rgba(29,161,242,0.5)!important;
-}
-
 body.dark .Hero {
     box-shadow: 0 1px 0px 0 rgb(56, 68, 77) !important;
 }
@@ -243,9 +239,6 @@ body.dark .Slidable .Slidable-underneath {
     background: #21303D !important;
 }
 
-body.dark .Dropdown-menu>li>a {
-    background: transparent !important;
-}
 
 body.dark .DiscussionList-loadMore .Button {
     background: #21303D !important;
@@ -262,6 +255,30 @@ body.dark .DiscussionListItem.active {
 body.dark .DiscussionPage-list {
     border: 1px solid rgb(56, 68, 77) !important;
     background: #15202B !important;
+}
+
+body.dark .App-drawer {
+    background: #21303D !important;
+}
+
+body.dark #header-secondary>ul>li.item-signUp>button[title=Kaydol] {
+    color: #fff !important;
+}
+
+body.dark #header-secondary > ul > li.item-logIn > button[title="Giriş Yap"] {
+    color: rgb(255, 255, 255) !important;
+}
+
+body.dark .TagLabel.colored .TagLabel-text {
+    color: none !important;
+}
+
+body.dark .DiscussionHero .TagsLabel .TagLabel.colored {
+    background: #21303D !important;
+}
+
+body.dark .Search-results {
+    background: #21303D !important;
 }
 
 /* +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT */
