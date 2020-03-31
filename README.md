@@ -1,6 +1,8 @@
-Flarum DIM - DARK Mode CSS
+**Flarum DIM - DARK Mode CSS**
 
-Çalışması için eklenti yüklemelisiniz:
+These settings are adapted to the flarumtr.com home page customization.
+
+**You need to install the plugin for it to work:**
 
 <div class="highlight highlight-source-shell"><pre>composer require fof/nightmode</pre></div>
 
