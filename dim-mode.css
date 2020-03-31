@@ -285,4 +285,8 @@ body.dark .Search-results {
     background: #21303D !important;
 }
 
+body.dark .TagCategory.SubCategory .TagCategory-content {
+    background-color: #21303D !important;
+}
+
 /* +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT */
