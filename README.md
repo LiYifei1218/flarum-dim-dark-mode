@@ -1,4 +1,4 @@
-Flarum Forum Twitter DIM - DARK Mode CSS
+Flarum DIM - DARK Mode CSS
 
 Çalışması için eklenti yüklemelisiniz:
 
