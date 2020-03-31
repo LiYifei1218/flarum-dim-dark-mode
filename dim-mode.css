@@ -247,4 +247,8 @@ body.dark .Dropdown-menu>li>a {
     background: transparent !important;
 }
 
+body.dark .DiscussionList-loadMore .Button {
+    background: #21303D;
+}
+
 /* +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT */
