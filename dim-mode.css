@@ -1,0 +1,250 @@
+/* +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT */
+body.dark .Hero {
+    background: #15202B!important;
+}
+
+body.dark .Hero-title {
+    color: rgb(255, 255, 255);
+}
+
+body.dark .App-content {
+    background: #15202B !important;
+}
+
+body.dark .App:before {
+    background-color: #15202B !important;
+}
+
+body.dark .Search .FormControl {
+    background-color: #15202B !important;
+}
+
+body.dark .FormControl {
+    color: #15202B !important;
+}
+
+body.dark .Search .FormControl {
+    background-color: #253341 !important;
+}
+
+/* Dim Button Group */
+body.dark .IndexPage-toolbar .Button {
+    background: #21303D !important;
+    color: rgb(136, 153, 166) !important;
+}
+
+body.dark .item-subscription .Button {
+    background: #21303D !important;
+    color: rgb(136, 153, 166) !important;
+}
+
+body.dark .item-share-social .Button {
+    background: #21303D !important;
+    color: rgb(136, 153, 166) !important;
+}
+
+body.dark .Navigation .Button {
+    background: #21303D !important;
+    color: rgb(136, 153, 166) !important;
+}
+
+body.dark .Post-controls .Button {
+    background: #21303D !important;
+    color: rgb(136, 153, 166) !important;
+}
+
+body.dark .Post-actions .Dropdown-menu {
+    background: #21303D !important;
+}
+
+body.dark .item-controls .Dropdown-menu {
+    background: #21303D !important;
+}
+
+body.dark .item-subscription .Dropdown-menu {
+    background: #21303D !important;
+}
+
+body.dark .item-session .Dropdown-menu {
+    background: #21303D !important;
+}
+
+body.dark .item-sort .Dropdown-menu {
+    background: #21303D !important;
+}
+
+body.dark .item-fof-upload .Button {
+    background: #21303D !important;
+}
+
+body.dark .item-preview .Button {
+    background: #21303D !important;
+}
+
+body.dark .item-changePassword .Button {
+    background: #21303D !important;
+}
+
+body.dark .item-changeEmail .Button {
+    background: #21303D !important;
+}
+
+body.dark .DiscussionListItem-controls .Button {
+    background: #21303D !important;
+}
+
+body.dark .item-notifications .Dropdown-menu {
+    background: #21303D !important;
+}
+
+body.dark .item-flags .Dropdown-menu {
+    background: #21303D !important;
+}
+
+body.dark .DiscussionListItem-controls .Dropdown-menu {
+    background: #21303D !important;
+}
+
+body.dark .App-primaryControl .Dropdown-menu {
+    background: #21303D !important;
+}
+
+body.dark .Modal-header {
+    background: #21303D !important;
+}
+
+body.dark .Modal-body {
+    background-color: #15202B !important;
+}
+
+body.dark .containerNarrow {
+    color: rgb(136, 153, 166) !important;
+}
+
+body.dark .sideNav .Dropdown--select .Dropdown-menu>.Dropdown-separator {
+    box-shadow: 0 1px 0px 0 rgb(56, 68, 77) !important;
+}
+
+body.dark .DiscussionListItem-content {
+    border: 1px solid rgb(56, 68, 77) !important;
+}
+
+body.dark .DiscussionListItem-info .item-excerpt {
+    color: #aaa !important;
+}
+
+body.dark .DiscussionListItem-info .item-excerpt {
+    border-bottom: 1px solid rgb(56, 68, 77) !important;
+}
+
+body.dark .DiscussionList:not(.DiscussionList--searchResults) .read .DiscussionListItem-title {
+    color: #ffff !important;
+}
+
+body.dark .Dropdown-menu {
+    background: transparent !important;
+}
+
+body.dark .Scrubber-handle {
+    background: transparent !important;
+}
+
+body.dark .Post.CommentPost {
+    border: 1px solid rgb(56, 68, 77) !important;
+}
+
+body.dark .ReplyPlaceholder {
+    border: 1px dashed #aaa !important;
+}
+
+body.dark {
+    background: #15202B !important;
+}
+
+.DiscussionHero-title {
+    color: #fff !important;
+}
+
+body.dark .Header-secondary .Button {
+    color: rgb(136, 153, 166) !important;
+}
+
+.Button-label .username {
+    color: #fff !important;
+}
+
+body.dark .Button:hover, body.dark .Button:focus, body.dark .Button.focus {
+    background-color: rgba(29,161,242,0.5)!important;
+}
+
+body.dark .Hero {
+    box-shadow: 0 1px 0px 0 rgb(56, 68, 77) !important;
+}
+
+body.dark .darkenBackground {
+    background: #15202B !important;
+}
+
+body.dark .UserBio {
+    color: #aaa;
+}
+
+body.dark .username {
+    color: #aaa;
+}
+
+body.dark .Button--primary {
+    color: #fff !important;
+}
+
+body.dark .Composer {
+    background: #21303D !important;
+}
+
+body.dark .FormControl {
+    background-color: #21303D !important;
+    color: #aaa !important;
+}
+
+body.dark .FormControl:focus, body.dark .FormControl.focus {
+    background-color: #21303D !important;
+}
+
+body.dark .DiscussionListItem:hover {
+    background: #21303D !important;
+}
+
+body.dark .UserCard-lastSeen {
+    color: #aaa !important;
+}
+
+body.dark .item-joined {
+    color: #aaa !important;
+}
+
+body.dark .NotificationGrid {
+    background: #21303D !important;
+    color: #aaa !important;
+}
+
+body.dark .App-backControl .Button:hover, body.dark .Button:focus, body.dark .Button.focus {
+    background-color: transparent !important;
+}
+
+body.dark .App-navigation .Navigation .Button {
+    background-color: transparent !important;
+}
+
+body.dark .App-titleControl .Button {
+    color: #aaa!important;
+}
+
+body.dark .Slidable .Slidable-underneath {
+    background: #21303D !important;
+}
+
+body.dark .Dropdown-menu>li>a {
+    background: transparent !important;
+}
+
+/* +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT */
