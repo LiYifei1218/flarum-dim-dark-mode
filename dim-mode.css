@@ -248,7 +248,20 @@ body.dark .Dropdown-menu>li>a {
 }
 
 body.dark .DiscussionList-loadMore .Button {
-    background: #21303D;
+    background: #21303D !important;
+}
+
+body.dark .DiscussionListItem {
+    background: #15202B !important;
+}
+
+body.dark .DiscussionListItem.active {
+    backgorund: #21303D !important;
+}
+
+body.dark .DiscussionPage-list {
+    border: 1px solid rgb(56, 68, 77) !important;
+    background: #15202B !important;
 }
 
 /* +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT */
