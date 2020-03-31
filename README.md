@@ -1,3 +1,4 @@
 # flarum-dim-dark-mode
 Flarum DIM Dark Mode
-asdf
+
+Flarum Forum Twitter DIM - DARK Mode CSS
