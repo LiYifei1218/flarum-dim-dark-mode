@@ -165,7 +165,7 @@ body.dark {
     background: #15202B !important;
 }
 
-.DiscussionHero-title {
+body.dark .DiscussionHero-title {
     color: #fff !important;
 }
 
@@ -173,7 +173,7 @@ body.dark .Header-secondary .Button {
     color: rgb(136, 153, 166) !important;
 }
 
-.Button-label .username {
+body.dark .Button-label .username {
     color: #fff !important;
 }
 
