@@ -1,3 +1,5 @@
+/* &&&&&&&&&&&&&&&& MOBİL DÜZENLEME &&&&&&&&&&&&&&&& MOBİL DÜZENLEME &&&&&&&&&&&&&&&& MOBİL DÜZENLEME  */
+
 /* +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT */
 body.dark .Hero {
     background: #15202B!important;
@@ -287,6 +289,23 @@ body.dark .Search-results {
 
 body.dark .TagCategory.SubCategory .TagCategory-content {
     background-color: #21303D !important;
+}
+
+body.dark .UserCard, .UserCard a {
+    color: #aaaa !important;
+}
+
+body.dark blockquote {
+    background: #21303D !important;
+}
+
+body.dark .PostMention:first-child {
+    background: #21303D !important;
+    color: #aaa !important;
+}
+
+body.dark .Hero-subtitle {
+    color: #8899a6 !important;
 }
 
 /* +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT */
