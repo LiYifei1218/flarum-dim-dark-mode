@@ -1,6 +1,7 @@
-/* &&&&&&&&&&&&&&&& MOBİL DÜZENLEME &&&&&&&&&&&&&&&& MOBİL DÜZENLEME &&&&&&&&&&&&&&&& MOBİL DÜZENLEME  */
+Check Web Adress : https://bumm.buzz
 
 /* +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT */
+
 body.dark .Hero {
     background: #15202B!important;
 }
@@ -156,11 +157,13 @@ body.dark .Scrubber-handle {
 }
 
 body.dark .Post.CommentPost {
+    background: #21303D !important;
     border: 1px solid rgb(56, 68, 77) !important;
 }
 
 body.dark .ReplyPlaceholder {
     border: 1px dashed #aaa !important;
+    background: #21303D !important;
 }
 
 body.dark {
@@ -308,4 +311,48 @@ body.dark .Hero-subtitle {
     color: #8899a6 !important;
 }
 
+body.dark .Scrubber-before, body.dark .Scrubber-after {
+    border-left: 2px solid #21303D !important;
+}
+
+body.dark .DiscussionList:not(.DiscussionList--searchResults) .read .DiscussionListItem-title {
+    font-weight: 600 !important;
+}
+
+body.dark .DiscussionList:not(.DiscussionList--searchResults) .unread .DiscussionListItem-title {
+    font-weight: 600 !important;
+    color: #e7672e !important;
+}
+
+body.dark .NotificationsDropdown-unread {
+    background: #e7672e !important;
+}
+
+body.dark .Post-footer .CommentPost .Post-header:before {
+    background-color: #2CB37D !important;
+} /* en iyi yanıt */
+
+body.dark .Post-footer .item-bestAnswerPost {
+    background-color: rgba(156, 232, 194, 0.33) !important;
+} /* en iyi yanıt */
+
+body.dark .Post-footer .item-bestAnswerPost .Post-body {
+    color: #fff !important;
+}
+
+body.dark .Post-header, body.dark .Post-header a {
+    color: #aaa !important;
+}
+
+body.dark .username {
+    color: #fff !important;
+}
+
+body.dark .Post-body {
+    color: #fff !important;
+}
+
+body.dark code {
+    background: #21303D !important;
+}
 /* +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT +++++++++++++++++ DIM MODE LAYOUT */
