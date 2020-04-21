@@ -2,6 +2,8 @@
 
 These settings are adapted to the flarumtr.com home page customization.
 
+Check Web Adress : [Bumm Buzz Forum](https://bumm.buzz/)
+
 **You need to install the plugin for it to work:**
 
 <div class="highlight highlight-source-shell"><pre>composer require fof/nightmode</pre></div>
